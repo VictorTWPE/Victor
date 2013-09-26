@@ -1,5 +1,4 @@
-Victor Espinosa
-24 años
-Master en Telecomunicacion
-
-Soy victor y espero ser becario de Telefonica (guiño guiño).
+<nombre>Victor Espinosa</nombre>
+<edad>24 años
+<carrera>Master en Telecomunicacion</carrera>
+<ocio> Me encanta la música y espero ser becario de Telefonica (guiño guiño).</carrera>
